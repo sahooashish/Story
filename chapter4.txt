@@ -1,2 +1,0 @@
-Made under master branch.
-Added this piece of text online in github.
